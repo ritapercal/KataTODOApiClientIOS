@@ -95,6 +95,7 @@
 		278C75894C520E46833A1E8E /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				EB28C8621C6DD32A004A5E74 /* Products */,
 				6BD616B6227C8BC4005FDC81 /* Foundation.framework */,
 				F06AD546F4EC015C4AEB6C1F /* Pods.framework */,
 				D74BAB9FE6332141F4937F17 /* Pods_KataTODOAPIClientTests.framework */,
@@ -123,7 +124,6 @@
 				EB28C88B1C6DDE7B004A5E74 /* TODOAPIClientPlayground.playground */,
 				EB28C8631C6DD32A004A5E74 /* KataTODOAPIClient */,
 				EB2B5E8B1E657C8A00B62211 /* KataTODOAPIClientTests */,
-				EB28C8621C6DD32A004A5E74 /* Products */,
 				278C75894C520E46833A1E8E /* Frameworks */,
 				76AC067C48F0E5B4B2C84BE0 /* Pods */,
 			);
